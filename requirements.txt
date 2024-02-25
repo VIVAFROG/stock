@@ -2,3 +2,4 @@ websockets
 pycryptodome
 requests
 pyyaml
+python-dotenv
